@@ -1,0 +1,17 @@
+
+body{
+    background: url(../img/bg5.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+  
+  
+    
+}
+
+.hover-effect:hover {
+    opacity: 0.9; 
+    
+}
